@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samsepi0ldev&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-<div style="display: inline-block;">
+<div style="display: inline_block;">
   <br>
   <img alt="Ely-JS" align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img alt="Ely-TS" align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -36,6 +36,7 @@
   <a href="https://www.linkedin.com/in/samsepi0ldev">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
+  
+  ![Snake animation](https://github.com/samsepi0ldev/samsepi0ldev/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
-
-![Snake animation](https://github.com/samsepi0ldev/samsepi0ldev/blob/output/github-contribution-grid-snake.svg)
