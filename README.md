@@ -1,30 +1,41 @@
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
-<div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+## Hi there, I'm Elivelton Santos and i work with application development.
+
+<div align="center" style="display: flex; width: 100%">
+  <a href="https://github.com/samsepi0ldev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samsepi0ldev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samsepi0ldev&layout=compact&langs_count=7&theme=radical"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+<div style="display: inline-block; width: 100%">
+  <br>
+  <img alt="Ely-JS" align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img alt="Ely-TS" align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+  <img alt="Ely-ReactJs" align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img alt="Ely-NodeJs" align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img alt="Ely-HTML" align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img alt="Ely-CSS" align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="Ely-Python" align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="Ely-Docker" align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img alt="Ely-Figma" align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img alt="Ely-Linux" align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align="right" alt="Ely-pic" height="150" style="border-radius:50px; display: block;" src="https://lh3.googleusercontent.com/6O6JZCDnF04dAY73_wQjxEZYFXdGNTHN53q8kZdpSv7O_KZZ7pqYuPsgSPuZaHmiNGRBf9KeHiSzoqu08Ywfk1WxBi6yXGyRSVxn4l3Nk9kDeN5BUOnJ7hyz67JpSMr22Sqj4lhqWnEFwJBl6GwsRwLmwKX2XhytGqAr33huuiEnAD1aCESQsMqCEO0nQ2CxcAuh8tBujRM7MkP_bhfCXircFVGpR4NFf-bfGZdmbLweYmWbTI0LHtzmkyp98T17q_hDroNCL1ynaC6oPCSLJKhncVfyqmjXwn57ySJp3mxXpTFHzHftfxD6QaNVs9TYkSGfT87i64AVC8FUvEP75v6zlu8IlORaSCb38ZZLU_0ZB7KApTWbbxpd35_7KY76nm2v8Pg67lUUMsB7LYtzxtPaAPYYjxSMH-Esdicfn4Gd-6Htt8Kbaj16vnM_QhfXPxdSbZSCAciH_s0OTeJg6tquu5uQxel0Zz7n9Hwsc0VBdMmB_yAVHtU3a2HcZfNQTLo_dl2GmSVTfNWwvfnwRcWtBBJABsUE1EkpAvsOmUQEBEpGb-C8ZM5ykzDljybBQQpZyjUegtPitrv2mtjVpVLkByEjxTAbFsYr-ganAdbO99DiPg-kST-IDxoDrcGaW04conyF6HEidpA2PJmbwjUMr92OcjGbxnhJd_lG8_kU52UlCdnfBvzSpPiB4GOuvLNO0tiTQi9DAJ3Oo14rqDxSwTXMVyv_Hh17polZ5BNP1MSqzy4I_zkYPvlT4uZetVOfJVOUmRHsBnJKWr8cZJi_PsEOP-ddvVTy971n6tbsP_AHRQl8H6rd-iZe3GCi1cbm=s938-no?authuser=0" />
 </div>
   
-  ##
- 
-<div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+##
+  
+<div>
+  <a href="mailto:samsepi0l.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+  </a>
+  <a href="https://www.instagram.com/eliveltonjps" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+  </a>
+  <a href="https://telegram.me/retrowm" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/samsepi0ldev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  
+  ![Snake animation](https://github.com/samsepi0ldev/samsepi0ldev/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
