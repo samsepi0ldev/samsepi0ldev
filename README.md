@@ -6,7 +6,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samsepi0ldev&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-<div style="display: inline-block">
+<div style="display: inline-block;">
+  <br>
   <img alt="Ely-JS" align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img alt="Ely-TS" align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img alt="Ely-ReactJs" align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
