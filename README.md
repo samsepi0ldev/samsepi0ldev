@@ -1,4 +1,4 @@
-## Hi there, I'm Elivelton Santos and i work with application development.
+## Hi there, I'm Elivelton Santos and i work with application development, mobile, web and server API.
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
