@@ -17,7 +17,7 @@
   <img alt="Ely-Docker" align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img alt="Ely-Figma" align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img alt="Ely-Linux" align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="right" alt="Ely-pic" height="150" style="border-radius:50px; display: block;" src="" />
+  <img align="right" alt="Ely-pic" height="150" style="border-radius:50px; display: block;" src="./github/samsepi0ldev.png" />
 </div>
   
 ##
