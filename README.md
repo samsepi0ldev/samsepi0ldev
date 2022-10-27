@@ -1,9 +1,9 @@
 ## Hi there, I'm Elivelton Santos and i work with application development.
 
-<div align="center" style="display: flex; width: 100%">
-  <a href="https://github.com/samsepi0ldev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samsepi0ldev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samsepi0ldev&layout=compact&langs_count=7&theme=radical"/>
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline-block; width: 100%">
