@@ -12,7 +12,9 @@
   <img alt="Ely-Docker" align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img alt="Ely-Figma" align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img alt="Ely-Linux" align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  ### ⚙️ GitHub Analytics
+</div>
+  
+### ⚙️ GitHub Analytics
 
 <table>
   <tr>
@@ -69,9 +71,6 @@
     alt="Número de visitantes no perfil"
   />
 </p>
-</div>
-  
-##
   
 <div>
   <a href="mailto:samsepi0l.dev@gmail.com" target="_blank">
