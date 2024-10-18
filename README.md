@@ -1,10 +1,4 @@
 ## Hi there, I'm Elivelton Santos and i work with application development.
-
-<div align="center">
-  <a href="https://github.com/rafaballerini">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samsepi0ldev&layout=compact&langs_count=7&theme=dracula"/>
-</div>
   
 <div style="display: inline-block; width: 100%">
   <br>
