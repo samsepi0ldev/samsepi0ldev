@@ -10,7 +10,7 @@ Sou um desenvolvedor e entusiasta de tecnologia que adora criar ferramentas que 
 
 Atualmente, atuo no desenvolvimento de soluções completas, desde o front-end até a automação de infraestrutura. Ao longo da minha jornada, colaboro ativamente com outros profissionais e equipes, ajudando a transformar ideias em produtos reais através de código limpo, arquitetura sólida e entregas de qualidade.
 
-Desde 2022, venho me aprofundando em arquitetura de software, boas práticas como Clean Architecture e SOLID, explorando novas tecnologias e ajudando a transformá-las em implementações práticas no mundo real. 👋
+Ha mais de 4 anos, venho me aprofundando em arquitetura de software, boas práticas como Clean Architecture e SOLID, explorando novas tecnologias e ajudando a transformá-las em implementações práticas no mundo real. 👋
 O que eu faço:
 
     🚀 Desenvolvimento de sistemas completos (Full Stack)
