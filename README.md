@@ -1,25 +1,43 @@
 ## Hi there, I'm Elivelton Santos and i work with application development.
   
-<div style="display: inline-block; width: 100%">
-  <br>
-  <img alt="Ely-JS" align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img alt="Ely-TS" align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-  <img alt="Ely-ReactJs" align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="Ely-NodeJs" align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img alt="Ely-HTML" align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img alt="Ely-CSS" align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img alt="Ely-Python" align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img alt="Ely-Docker" align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img alt="Ely-Figma" align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img alt="Ely-Linux" align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-</div>
-  
 ### ⚙️ GitHub Analytics
 
 ![Elivelton Santos GitHub stats](.github/profile/stats.svg)
 
 ![Elivelton Santos GitHub stats - All Ranks](.github/profile/trophy.svg)
 
+Olá, me chamo [Seu Nome] 👋
+
+Sou um desenvolvedor e entusiasta de tecnologia que adora criar ferramentas que as pessoas realmente usam. Compartilho conhecimentos sobre engenharia de software e boas práticas de desenvolvimento, colaborando com a comunidade tech.
+
+Atualmente, atuo no desenvolvimento de soluções completas, desde o front-end até a automação de infraestrutura. Ao longo da minha jornada, colaboro ativamente com outros profissionais e equipes, ajudando a transformar ideias em produtos reais através de código limpo, arquitetura sólida e entregas de qualidade.
+
+Desde 2022, venho me aprofundando em arquitetura de software, boas práticas como Clean Architecture e SOLID, explorando novas tecnologias e ajudando a transformá-las em implementações práticas no mundo real. 👋
+O que eu faço:
+
+    🚀 Desenvolvimento de sistemas completos (Full Stack)
+
+    🎨 Criação de interfaces com React e Figma
+
+    ⚙️ Automação de processos e infraestrutura com Docker
+
+    🐧 Desenvolvimento em ambientes Linux
+
+    📱 Apps e sistemas com Node.js, TypeScript, JavaScript, PHP e Python
+
+    🧠 Arquitetura limpa e princípios SOLID
+
+    🤝 Colaboração técnica com equipes e startups parceiras
+
+    📝 Conteúdo técnico e compartilhamento de conhecimento
+
+Stacks e ferramentas:
+
+Front-end: React, JavaScript, TypeScript, Figma
+Back-end: Node.js, PHP, Python, APIs REST
+Arquitetura: Clean Architecture, SOLID, Design Patterns
+DevOps & Infra: Docker, Linux, Automação
+Outros: Git, Metodologias Ágeis, Integração Contínua
 
 ---
 
