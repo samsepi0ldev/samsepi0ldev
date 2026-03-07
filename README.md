@@ -6,8 +6,6 @@
 
 ![Elivelton Santos GitHub stats - All Ranks](.github/profile/trophy.svg)
 
-Olá, me chamo [Seu Nome] 👋
-
 Sou um desenvolvedor e entusiasta de tecnologia que adora criar ferramentas que as pessoas realmente usam. Compartilho conhecimentos sobre engenharia de software e boas práticas de desenvolvimento, colaborando com a comunidade tech.
 
 Atualmente, atuo no desenvolvimento de soluções completas, desde o front-end até a automação de infraestrutura. Ao longo da minha jornada, colaboro ativamente com outros profissionais e equipes, ajudando a transformar ideias em produtos reais através de código limpo, arquitetura sólida e entregas de qualidade.
