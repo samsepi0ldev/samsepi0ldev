@@ -47,8 +47,7 @@
 
 ### 🏆 GitHub Profile Trophy
 
-
-  [![trophy](https://github-profile-trophy.vercel.app/?username=samsepi0ldev&theme=aura)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=samsepi0ldev&theme=aura)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ---
