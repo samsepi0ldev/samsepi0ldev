@@ -16,38 +16,10 @@
   
 ### ⚙️ GitHub Analytics
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=samsepi0ldev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=samsepi0ldev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=samsepi0ldev&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
+![Su Yang's GitHub stats](.github/profile/stats.svg)
 
----
+![Su Yang's GitHub stats - All Ranks](.github/profile/trophy.svg)
 
-### 🏆 GitHub Profile Trophy
-
-![Trophy](./profile/trophy.svg)
 
 ---
 
