@@ -16,9 +16,9 @@
   
 ### ⚙️ GitHub Analytics
 
-![Su Yang's GitHub stats](.github/profile/stats.svg)
+![Elivelton Santos GitHub stats](.github/profile/stats.svg)
 
-![Su Yang's GitHub stats - All Ranks](.github/profile/trophy.svg)
+![Elivelton Santos GitHub stats - All Ranks](.github/profile/trophy.svg)
 
 
 ---
